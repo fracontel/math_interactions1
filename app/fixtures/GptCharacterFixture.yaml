@@ -1,0 +1,152 @@
+
+#Tutti gli studenti della prima fase di interviste
+
+- model: app.gptcharacter
+  fields:
+    username: "margherita burani"
+    role: 1
+    notes: "sperimentazione Nov/Dic 2023. Liceo linguistico"
+
+- model: app.gptcharacter
+  fields:
+    username: "emanuele gemma"
+    role: 1
+    notes: "sperimentazione Nov/Dic 2023. Liceo classico"
+
+- model: app.gptcharacter
+  fields:
+    username: "giacomo introna"
+    role: 1
+    notes: "sperimentazione Nov/Dic 2023. Liceo classico"
+
+- model: app.gptcharacter
+  fields:
+    username: "diana grechi"
+    role: 1
+    notes: "sperimentazione Nov/Dic 2023. Liceo classico"
+
+- model: app.gptcharacter
+  fields:
+    username: "francesca micheli"
+    role: 1
+    notes: "sperimentazione Nov/Dic 2023. Liceo classico"
+
+- model: app.gptcharacter
+  fields:
+    username: "elena d'antonio"
+    role: 1
+    notes: "sperimentazione Nov/Dic 2023. Liceo classico"
+
+- model: app.gptcharacter
+  fields:
+    username: "angelica carimando"
+    role: 1
+    notes: "sperimentazione Nov/Dic 2023. Liceo classico"
+
+- model: app.gptcharacter
+  fields:
+    username: "sofia onorati"
+    role: 1
+    notes: "sperimentazione Nov/Dic 2023. Liceo classico"
+
+- model: app.gptcharacter
+  fields:
+    username: "vittoria catapano"
+    role: 1
+    notes: "sperimentazione Nov/Dic 2023. Liceo classico"
+
+#tutti gli studenti della seconda fase di interviste
+
+- model: app.gptcharacter
+  fields:
+    username: "francesco catania"
+    role: 1
+    notes: "sperimentazione Mag/Giu 2024. Liceo classico"
+
+- model: app.gptcharacter
+  fields:
+    username: "francesco potenza"
+    role: 1
+    notes: "sperimentazione Mag/Giu 2024. Liceo classico"
+
+- model: app.gptcharacter
+  fields:
+    username: "francesco panzarola"
+    role: 1
+    notes: "sperimentazione Mag/Giu 2024. Liceo classico"
+
+- model: app.gptcharacter
+  fields:
+    username: "greta vasarri"
+    role: 1
+    notes: "sperimentazione Mag/Giu 2024. Liceo classico"
+
+- model: app.gptcharacter
+  fields:
+    username: "fiore anticoli"
+    role: 1
+    notes: "sperimentazione Mag/Giu 2024. Liceo classico"
+
+
+- model: app.gptcharacter
+  fields:
+    username: "paolo proto"
+    role: 1
+    notes: "sperimentazione Mag/Giu 2024. Liceo classico"
+
+- model: app.gptcharacter
+  fields:
+    username: "laura bigi"
+    role: 1
+    notes: "sperimentazione Mag/Giu 2024. Liceo classico"
+
+- model: app.gptcharacter
+  fields:
+    username: "aldo de rosa"
+    role: 1
+    notes: "sperimentazione Mag/Giu 2024. Liceo classico"
+
+- model: app.gptcharacter
+  fields:
+    username: "giovanna benacchio"
+    role: 1
+    notes: "sperimentazione Mag/Giu 2024. Liceo classico"
+
+- model: app.gptcharacter
+  fields:
+    username: "antonio de vito"
+    role: 1
+    notes: "sperimentazione Mag/Giu 2024. Liceo classico"
+
+# tutti i tutor ad oggi comparsi
+
+- model: app.gptcharacter
+  fields:
+    username: "gpt-3.5"
+    role: 2
+    notes: "sperimentazione Mag/Giu 2024"
+
+- model: app.gptcharacter
+  fields:
+    username: "gpt-4"
+    role: 2
+    notes: "sperimentazione Nov/Dic 2023"
+
+- model: app.gptcharacter
+  fields:
+    username: "gpt-4o"
+    role: 2
+    notes: "sperimentazione Mag/Giu 2024"
+
+- model: app.gptcharacter
+  fields:
+    username: "annalisa cusi"
+    role: 2
+    notes: "sperimentazione Mag/Giu 2024"
+
+- model: app.gptcharacter
+  fields:
+    username: "silvia marricco"
+    role: 2
+    notes: "sperimentazione Mag/Giu 2024"
+
